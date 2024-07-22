@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NAN_calculator</string>
+    <string name="draw">Draw</string>
+    <string name="hand_value">Hand Value: %1$d</string>
+    <string name="add_card">Add Card</string>
+    <string name="cards">Cards: %1$s</string>
+    <string name="hand_value_0">Hand Value: 0</string>
+    <string name="change_card">Change Card</string>
+</resources>
